@@ -1,1 +1,7 @@
 out/
+
+*.exe
+*.obj
+*.log
+*.bak
+/obj
